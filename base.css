@@ -1,0 +1,26 @@
+:root{
+	--text-color:#282c37;
+	--primary-color: #2b90d9;
+	--bg-color: #d9e1e8;
+	--border-color: #9baec8;
+	--header-height: 100px;
+	--logo-height: 50px;
+	--logo-width: 150px;
+}
+*{
+	box-sizing: inherit;
+	
+}
+html{
+	font-size: 62.5%;
+	
+
+}
+body{
+	
+	margin: 0;
+	font-size: 1.4rem;
+	font-family: sans-serif;
+	width: 100vw;
+	background-color: #404040;
+}

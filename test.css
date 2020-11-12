@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+
+.box{
+	height: 40px;
+	width: 40px;
+	color: white;
+}
+.box1{
+	background-color: red;
+}
+.box2{
+	background-color: black;
+}
+.box3{
+	background-color: blue;
+	border: 10px solid red;
+}
